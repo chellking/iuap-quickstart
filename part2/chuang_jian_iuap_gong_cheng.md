@@ -8,7 +8,5 @@
 
 点击下一步，输入工程名和项目名称，Maven工程需要的`groupId`和`ArtifactId`等信息，点击完成，创建工程。Maven的基础知识，请参考Maven官方帮助文档。   
 
-<center>
-![](/img/image011.jpg)
 
-</center>  
+![](/img/image011.jpg)
