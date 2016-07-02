@@ -9,20 +9,17 @@ v 0.01
 
 该项目用于重启中文翻译工作，并确保项目的可持续性，特别做如下规划：
 
-* 所有翻译工作转到 [Github](https://www.github.com) 来协同，可以通过 Github Pull Request 来完成评审。
+* 所有编写工作转到 [Github](https://www.github.com) 来协同，可以通过 Github Pull Request 来完成评审。
 * 所有翻译结果用 [GitBook](http://www.gitbook.com) 来展示，并方便转换为如下格式（pdf, mobi, epub, html 等）。
-* 所有翻译后的文档格式统一为 GitBook 支持的 [Markdown 格式](http://help.gitbook.com/format/markdown.html)。
-* 为了专注于翻译本身，所有翻译结果暂时不考虑 Upstream 到内核主线。
-* 优先把 `Documentation/zh_CN/` 下的中文文档转换为 Markdown 格式。
+* 所有编写后的文档格式统一为 GitBook 支持的 [Markdown 格式](http://help.gitbook.com/format/markdown.html)。
 * 在翻译新文章时，请先把英文原文转为 Markdown 格式并存到 `en/` 下，之后再翻译为中文存到 `zh-cn/`。
 * 目录结构尽量遵循 `Documentation/` 的原有方式。
-* 基于目前最新的 longterm 版本 **3.18** 内核代码下的 [Documentation/](https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/tree/Documentation?id=refs/tags/v3.18.20) 进行翻译和更新。
 
 ## 简介
 
--   代码仓库：<https://github.com/tinyclub/linux-doc>
--   在线阅读：<http://tinylab.gitbooks.io/linux-doc>
--   项目首页：<http://www.tinylab.org/linux-doc>
+-   代码仓库：<https://github.com/chellking/iuap-quickstart>
+-   在线阅读：<https://www.gitbook.com/book/chellking/iuap/details>
+-   项目首页：<http://iuap.yonyou.com>
 
 ## 参与翻译
 
@@ -39,8 +36,8 @@ v 0.01
 
 ### 下载
 
-    $ git clone https://github.com/iuap/open-c-book.git
-    $ cd open-c-book/
+    $ git clone https://git.gitbook.com/chellking/iuap.git
+    $ cd iuap/
 
 ### 编译
 
@@ -49,7 +46,7 @@ v 0.01
 
 ### 纠错
 
-欢迎大家指出不足，如有任何疑问，请邮件联系 wuzhangjin at gmail dot com 或者直接修复并提交 Pull Request。
+欢迎大家指出不足，如有任何疑问，请邮件联系 chexz@yonyou.com at yonyou dot com 或者直接修复并提交 Pull Request。
 
 ### 版权
 
