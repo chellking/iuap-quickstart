@@ -19,7 +19,7 @@
    * [服务层说明](fu_wu_ceng_shuo_ming.md)
    * [前后端交互](qian_hou_duan_jiao_hu.md)
 * [技术组件集成](ji_zhu_zu_jian_ji_cheng.md)
-* 工程调试运行
+* [工程调试运行](gong_cheng_diao_shi_yun_xing.md)
    * 调试环境说明
    * 调试运行与问题查找
 * 工程打包与部署
