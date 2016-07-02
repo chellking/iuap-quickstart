@@ -22,7 +22,7 @@
 * [工程调试运行](gong_cheng_diao_shi_yun_xing.md)
    * [调试环境说明](diao_shi_huan_jing_shuo_ming.md)
    * [调试运行与问题查找](diao_shi_yun_xing_yu_wen_ti_cha_zhao.md)
-* 工程打包与部署
+* [工程打包与部署](gong_cheng_da_bao_yu_bu_shu.md)
    * 工程清理与打包
    * 部署说明
 * [示例服务端开发]
