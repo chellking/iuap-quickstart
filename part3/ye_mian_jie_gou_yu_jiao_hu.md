@@ -2,14 +2,12 @@
 
 前端数据模型的定义示例:  
 
-<center>
-![](image/image018.jpg)
 
-</center>   
+![](/img/image018.jpg)
+
+
 
 前后端交互ajax:  
 
-<center>
-![](image/image019.jpg)
 
-</center>   
+![](/img/image019.jpg)
