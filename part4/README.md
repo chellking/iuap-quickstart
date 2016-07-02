@@ -4,7 +4,5 @@
 后端的持久化方式，示例中默认采用IUAP平台提供的技术组件iuap-jdbc来进行持久化，工程中也包含采用`Spring Data JPA`方式的示例，请开发者自行选择。  
 IUAP_STUDIO会提供根据数据库表或者元数据生成vo类以及数据库操作类的向导，开发者可以按照IUAP_STUODIO的具体的帮助手册中的指导生成后端代码。  
 
-<center>
-![](image/image020.jpg)
 
-</center>
+![](/img/image020.jpg)
