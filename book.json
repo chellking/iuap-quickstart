@@ -10,4 +10,16 @@
             "Home" : "http://iuap.yonyou.com"
         }
     }
+    
+    "plugins": [
+        "toc"
+     ],
+     
+    "pluginsConfig": {
+         "toc": {
+            "addClass": true,
+            "className": "toc"
+          }
+      }
+
  }
