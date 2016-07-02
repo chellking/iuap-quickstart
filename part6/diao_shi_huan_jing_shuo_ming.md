@@ -19,5 +19,5 @@
 数据库连接信息默认存储在`application.properties`中，此配置文件也是后续技术组件中使用的默认的属性文件。开发者可以在此文件中配合spring的配置文件，指定数据库连接信息、缓存连接url等。
 
 
-![](img/image035.jpg)
+![](/img/image035.jpg)
   
