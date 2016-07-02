@@ -8,6 +8,5 @@
    * [Maven配置](part1/mavenpei_zhi.md)
    * [启动调试](part1/qi_dong_diao_shi.md)
 * [基础工程创建 II](part2/README.md)
-   * [We love feedback](part2/feedback_please.md)
    * [Better tools for authors](part2/better_tools.md)
 
