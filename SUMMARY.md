@@ -1,7 +1,7 @@
 # Summary
 
 * [概述](README.md)
-* [开发环境配置与快速预览 I](part1/README.md)
+* [开发环境配置与快速预览](part1/README.md)
    * [开发工具盘说明](part1/writing.md)
    * [工具初始化](part1/gitbook.md)
    * [示例工程说明](part1/shiligongchengmd.md)
@@ -25,3 +25,4 @@
 * [工程打包与部署](part7/README.md)
    * [工程清理与打包](part7/gong_cheng_qing_li_yu_da_bao.md)
    * [部署说明](part7/bu_shu_shuo_ming.md)
+
