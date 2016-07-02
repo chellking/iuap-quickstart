@@ -10,7 +10,7 @@
 * [基础工程创建 II](part2/README.md)
    * [创建IUAP工程](part2/chuang_jian_iuap_gong_cheng.md)
    * [工程结构说明](part2/gong_cheng_jie_gou_shuo_ming.md)
-* 示例前端开发 III
+* [示例前端开发 III](shi_li_qian_duan_kai_fa_iii.md)
    * 前端配置简介
    * 页面结构与交互
 * 示例服务端开发
