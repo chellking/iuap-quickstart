@@ -2,24 +2,21 @@
 
 首页中定义菜单位置如下：  
 
-<center>
-![](image/image015.jpg)
 
-</center>    
+![](/img/image015.jpg)
+   
 
 `index.html`中引入了`requirejs`和首页对应的初始化js文件。
 
-<center>
-![](image/image016.jpg)
 
-</center>   
+![](/img/image016.jpg) 
 
 `require.config.js`中定义了对三方技术框架的引入。  
 
-<center>
-![](image/image017.jpg)
 
-</center>  
+![](/img/image017.jpg)
+
+
 
 示例在`index.js`中初始化了菜单，用户点击对应的菜单时，路由到了对应的模块的js中，如果`pages/page.js`.  
 `page.js`中指定了需要加载的模块html片段，代码如下：  
