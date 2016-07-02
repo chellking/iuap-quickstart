@@ -13,7 +13,7 @@
 * [示例前端开发 III](part3/shi_li_qian_duan_kai_fa_iii.md)
    * [前端配置简介](part3/qian_duan_pei_zhi_jian_jie.md)
    * [页面结构与交互](part3/ye_mian_jie_gou_yu_jiao_hu.md)
-* [示例服务端开发](part4/shi_li_fu_wu_duan_kai_fa.md)
+* [示例服务端开发](part4/README.md)
    * [实体层介绍](part4/shi_ti_ceng_jie_shao.md)
    * [数据库操作层简介](part4/shu_ju_ku_cao_zuo_ceng_jian_jie.md)
    * [服务层说明](part4/fu_wu_ceng_shuo_ming.md)
