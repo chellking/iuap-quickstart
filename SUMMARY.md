@@ -16,7 +16,7 @@
 * [示例服务端开发](shi_li_fu_wu_duan_kai_fa.md)
    * [实体层介绍](shi_ti_ceng_jie_shao.md)
    * [数据库操作层简介](shu_ju_ku_cao_zuo_ceng_jian_jie.md)
-   * 服务层说明
+   * [服务层说明](fu_wu_ceng_shuo_ming.md)
    * 前后端交互
 * 技术组件集成
 * 工程调试运行
