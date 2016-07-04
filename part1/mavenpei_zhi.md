@@ -12,6 +12,7 @@
 
 修改localRepository指定到自身的开发盘的对应目录下，示例：
 ```<localRepository>D:\DevTool\repository\Maven\Maven3.2.2\local\repo</localRepository>```
+ 
  IDE中的Maven默认设置了offline更新，如果用户配置了其他的Maven仓库，请根据自身情况，选择在线更新还是离线更新。
 
 
