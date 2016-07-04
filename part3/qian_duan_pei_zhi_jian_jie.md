@@ -13,7 +13,7 @@
     <script type="text/javascript" src="config/require.config.js"></script>
     <script type="text/javascript" src="index.js"></script>
 ```
-`require.config.js`中定义了对三方技术框架的引入。  
+你可以通过paths config设置一组脚本，这些有助于我们在使用脚本时码更少的字，`require.config.js`中定义了对三方技术框架的引入。  
 
 ```
 require.config({
