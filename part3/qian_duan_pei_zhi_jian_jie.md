@@ -19,11 +19,10 @@
       </nav>
 </div>
 ```
-   
 
-`index.html`中引入了`requirejs`和首页对应的初始化js文件。
+主页面在`index.html`文件中引入了`require.js`和首页对应的初始化js文件。
 
-
+![主页面](../img/image106.jpg)
 ![](/img/image016.jpg) 
 
 `require.config.js`中定义了对三方技术框架的引入。  
