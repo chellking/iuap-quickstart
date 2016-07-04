@@ -18,14 +18,13 @@
 ![](/img/image007.jpg)
 
 
-
 正常情况下，启动调试完成后，在控制台中可以看到如下信息：   
 
 
 ![](/img/image008.jpg)
 
 
-在浏览器中输入<http://localhost:8080/iuap-quickstart>，访问示例应用，界面如下：  
+在浏览器中输入[<http://localhost:8080/iuap-quickstart>](http://localhost:8080/iuap-quickstart)，访问示例应用，界面如下：  
 
 
 ![](/img/image009.jpg)
