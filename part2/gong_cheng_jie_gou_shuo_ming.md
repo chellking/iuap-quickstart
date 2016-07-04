@@ -14,7 +14,7 @@
     <artifactId>iuap-quickstart</artifactId>
     <version>2.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>iuap-quickstart</name>
+    <name>demoweb</name>
 ```
 
 开发者根据对iUAP平台技术组件和应用组件的需求，增加依赖项即可。  
