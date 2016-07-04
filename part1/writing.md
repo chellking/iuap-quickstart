@@ -8,6 +8,8 @@
 几个重要目录说明如下：
 
 * bin目录中包含pg和Redis的快速启动批处理；
+* DB目录是包含数据库软件与数据存放的地方；
+* LicenseServer目录是为开发工具授权用的授权服务器；
 * repository目录的IDE文件夹下包含iUAP_STUDIO；
 * repository目录的Maven文件夹下包含iUAP平台提供的预制组件库的本地Maven仓库；
 * workspace目录为IDE默认使用的工作空间；
