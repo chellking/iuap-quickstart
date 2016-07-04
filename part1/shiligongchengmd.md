@@ -1,6 +1,6 @@
 ## 示例工程说明
 
-运行开发工具盘根目录下的startDevTool.bat，打开IUAP_STUDIO，环境默认携带一个示例工程，示例工程结构如下：
+运行开发工具盘根目录下的startDevTool.bat，打开iUAP_STUDIO，环境默认携带一个示例工程，示例工程结构如下：
 
 ![工具目录](/img/image002.jpg)
  
