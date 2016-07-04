@@ -8,7 +8,7 @@
 几个重要目录说明如下：
 
 * bin目录中包含pg和Redis的快速启动批处理；
-* repository目录的IDE文件夹下包含IUAP_STUDIO；
+* repository目录的IDE文件夹下包含iUAP_STUDIO；
 * repository目录的Maven文件夹下包含iUAP平台提供的预制组件库的本地Maven仓库；
 * workspace目录为IDE默认使用的工作空间；
 
