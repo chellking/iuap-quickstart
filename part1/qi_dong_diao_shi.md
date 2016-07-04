@@ -3,16 +3,16 @@
 
 运行bin目录下的startPgsql.bat，启动数据库。  
 
-示例工程中，支持使用jetty调试，右键工程名，选择Maven build…  
+示例工程中，支持使用jetty调试，右键工程名，选择调试方试->Maven build…  
 
 ![](/img/image005.jpg)
  
 
-在右侧上方的页签中选择源，添加源代码，选择需要添加的工程，加入到调试工程中，以方便断点调试。  
+在右侧上方的页签中选择[源]，添加源代码，选择需要添加的工程，加入到调试工程中，以方便断点调试。  
 
 ![](/img/image006.jpg)
 
-在Main页签中的goals中，输入jetty:run，选择跳过测试Skip Tests，点击应用，调试，启动工程的jetty调试。  
+在Main页签中的[goals]中，输入"jetty:run"，选择跳过测试"Skip Tests"，点击应用，调试，启动工程的jetty调试。  
 
 
 ![](/img/image007.jpg)
