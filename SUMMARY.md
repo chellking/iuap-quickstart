@@ -23,6 +23,6 @@
    * [调试环境说明](part6/diao_shi_huan_jing_shuo_ming.md)
    * [调试运行与问题查找](part6/diao_shi_yun_xing_yu_wen_ti_cha_zhao.md)
 * [工程打包与部署](part7/README.md)
-   * [工程清理与打包](part7/gong_cheng_qing_li_yu_da_bao.md)
+   * [清理与打包](part7/gong_cheng_qing_li_yu_da_bao.md)
    * [部署说明](part7/bu_shu_shuo_ming.md)
 
