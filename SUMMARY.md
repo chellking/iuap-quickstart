@@ -1,7 +1,7 @@
 # Summary
 
 * [概述](README.md)
-* [开发环境配置与快速预览](part1/README.md)
+* [开发配置与预览](part1/README.md)
    * [开发工具盘说明](part1/writing.md)
    * [工具初始化](part1/gitbook.md)
    * [示例工程说明](part1/shiligongchengmd.md)
