@@ -1,13 +1,24 @@
 ## 前端配置简介
 
+
+### 主界面说明
+
 产品界面如下图，由左侧是菜单区，右侧是功能内容区，最上部是系统功能导航区三部分组成。
 
 ![产品界面](/img/image105.jpg)
 
 首页中定义菜单位置如下：  
 
-
-![](/img/image015.jpg)
+```
+<div class="u-color-white" style="-webkit-flex-shrink:1;-ms-flex-negative: 1;flex-shrink: 1;">
+     <nav class="demo-navigation u-nav" id='menu'>	
+		<a class="u-nav-link" href="#goods/page"><i class="fa fa-balance-scale"></i><span class="demo-hidden-folded">产品管理</span></a>
+		<a class="u-nav-link" href="#page1/page1"><i class="fa fa-newspaper-o" ></i>资讯</a>
+		<a class="u-nav-link" href="#page2/page2"><i class="fa fa-object-group"></i><span class="demo-hidden-folded">招聘</span></a>
+        <a class="u-nav-link" href="#page3/page3"><i class="fa fa-users"></i>会员</a>
+      </nav>
+</div>
+```
    
 
 `index.html`中引入了`requirejs`和首页对应的初始化js文件。
