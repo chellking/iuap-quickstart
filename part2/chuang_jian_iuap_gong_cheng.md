@@ -1,6 +1,6 @@
 # 创建IUAP工程
 
-在IUAP_STUDIO中新建工程，选择iUAP项目，如下图：  
+在iUAP_STUDIO中新建工程，选择iUAP项目，如下图：  
 
 
 ![](/img/image010.jpg)
