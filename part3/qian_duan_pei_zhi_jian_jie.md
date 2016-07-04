@@ -7,7 +7,7 @@
 
 ![产品界面](/img/image105.jpg)
 
-主页面在`index.html`文件中,并且在底部引入了`require.js`和首页对应的初始化js文件。
+主页面在`index.html`文件中,并且在底部引入了`require.js`和首页对应的初始化js文件，RequireJS的目标是鼓励代码的模块化。
 ```
     <script type="text/javascript" src="vendor/requirejs/require.js"></script>
     <script type="text/javascript" src="config/require.config.js"></script>
