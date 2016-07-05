@@ -16,7 +16,7 @@ v 0.01
 * 在翻译新文章时，请先把英文原文转为 Markdown 格式并存到 `en/` 下，之后再翻译为中文存到 `zh-cn/`。
 * 目录结构尽量遵循 `Documentation/` 的原有方式。
 
-## 简介
+## 简介 ##
 
 -   代码仓库：<https://github.com/chellking/iuap-quickstart>
 -   在线阅读：<https://www.gitbook.com/book/chellking/iuap/details>
