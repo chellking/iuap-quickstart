@@ -12,7 +12,8 @@
     },
     "plugins": [
        "splitter",
-       "-sharing"
+       "-sharing",
+       "toggle-chapters"
      ]
   
  }
