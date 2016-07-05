@@ -9,6 +9,9 @@
         "sidebar" : {
             "Home" : "http://iuap.yonyou.com"
         }
-    }
+    },
+    "plugins": [
+       "splitter"
+     ]
   
  }
