@@ -4,7 +4,7 @@
 
 ### 使用 URL访问
 
-这种情况是在控制器上加了@RequestMapping 注解，所以当需要访问到里面使用了@RequestMapping 标记的方法showView() 的时候就需要使用showView 方法上@RequestMapping 相对于控制器MyController 上@RequestMapping 的地址，即/test/showView.do 。
+这种情况是在控制器上加了@RequestMapping 注解，所以当需要访问到里面使用了@RequestMapping 标记的方法page() 的时候就需要使用page 方法上@RequestMapping 相对于控制器GoodJdbcDemoController 上@RequestMapping 的地址，即/goods/page.html 。
    
 ```
 /**
