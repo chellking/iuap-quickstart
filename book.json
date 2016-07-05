@@ -11,7 +11,6 @@
         }
     }
     "plugins": [
-       "splitter",
        "-sharing",
        "toggle-chapters",
        "edit-link",
