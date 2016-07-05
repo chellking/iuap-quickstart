@@ -37,3 +37,23 @@ public class GoodJdbcDemoController {
   }
 ```
 
+
+### 使用 URI 模板
+
+   URI 模板就是在URI 中给定一个变量，然后在映射的时候动态的给该变量赋值。如URI 模板http://localhost/app/{variable1}/index.html ，这个模板里面包含一个变量variable1 ，那么当我们请求http://localhost/app/hello/index.html 的时候，该URL 就跟模板相匹配，只是把模板中的variable1 用hello 来取代。在SpringMVC 中，这种取代模板中定义的变量的值也可以给处理器方法使用，这样我们就可以非常方便的实现URL 的RestFul 风格。这个变量在SpringMVC 中是使用@PathVariable 来标记的。
+   在SpringMVC 中，我们可以使用@PathVariable 来标记一个Controller 的处理方法参数，表示该参数的值将使用URI 模板中对应的变量的值来赋值。
+   
+   ```
+@Controller  
+@RequestMapping ( "/goods/{variable1}" )  
+public class GoodJdbcDemoController {  
+  
+    @RequestMapping ( "/showView/{variable2}" )  
+    public ModelAndView showView( @PathVariable String variable1, @PathVariable ( "variable2" ) int variable2) {  
+       ModelAndView modelAndView = new ModelAndView();  
+       modelAndView.setViewName( "viewName" );  
+       modelAndView.addObject( " 需要放到 model 中的属性名称 " , " 对应的属性值，它是一个对象 " );  
+       return modelAndView;  
+    }  
+}   
+   ```
