@@ -1,4 +1,6 @@
-## Maven配置
+﻿
+# Maven配置 #
+
 在DevTool\repository\Maven目录下的本地仓库中，已经包含了iUAP平台基础组件，IDE中默认设置的Maven组件也是此目录，如果用户的开发工具包不在D盘的根目录，需要自行配置iUAP_STUDIO的Maven，配置方式如下如：
 打开->窗口->首选项，选择Maven->Installations，确认安装的Maven为上述目录中的Maven。
 
