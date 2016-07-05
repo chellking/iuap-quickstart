@@ -9,11 +9,5 @@
         "sidebar" : {
             "Home" : "http://iuap.yonyou.com"
         }
-    },
-    "plugins": [
-       "splitter",
-       "-sharing",
-       "toggle-chapters"
-     ],
-  
+    }
  }
