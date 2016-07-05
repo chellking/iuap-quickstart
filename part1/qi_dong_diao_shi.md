@@ -1,13 +1,6 @@
 # 启动调试
 
-
-
----
-
 > 运行bin目录下的startPgsql.bat，启动数据库。  
-
----
-
 
 示例工程中配置好了Jetty这个WEB容器，支持使用jetty调试，右键工程名，选择调试方试->Maven build…  
 
