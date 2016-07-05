@@ -10,7 +10,7 @@
 		editoradd: '',
 		searchText: ko.observable(''),
 		searchFileds: ['productName','supplier'],
-		mainDataTable: new u.DataTable({
+		mainDataTable: new u.DataTable({  //数据模型定义
 			meta: {
 				'productid':{
 					type:'string'
@@ -54,7 +54,7 @@
 		        
 		        queryData["pageIndex"] = viewModel.mainDataTable.pageIndex();
 		        queryData["pageSize"] = viewModel.mainDataTable.pageSize();
-				$.ajax({
+				$.ajax({ //发送请求到服务器
 					type : 'GET',
 					url : ctrlBathPath+'/page',
 					data : queryData,
