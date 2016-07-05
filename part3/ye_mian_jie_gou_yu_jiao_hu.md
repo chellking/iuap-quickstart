@@ -41,5 +41,36 @@
 
 前后端交互ajax:  
 
+```
+            //查询主数据
+			queryMain: function(){
+				var queryData = {};
+				var searchValue = viewModel.searchText();
+				
+				for (var i = 0; i < viewModel.searchFileds.length; i++) {
+					var key = 'search_LIKE_' + viewModel.searchFileds[i];
+					queryData[key] = searchValue;
+				}
+		        
+		        queryData["pageIndex"] = viewModel.mainDataTable.pageIndex();
+		        queryData["pageSize"] = viewModel.mainDataTable.pageSize();
+				$.ajax({
+					type : 'GET',
+					url : ctrlBathPath+'/page',
+					data : queryData,
+					dataType : 'json',
+					success : function(result) {
+						var data = result.data;
+						if(data!=null){
+							viewModel.mainDataTable.setSimpleData(data.content);
+							viewModel.mainDataTable.totalPages(data.totalPages);
+						} else {
+							
+						}
+					}
+				});
+			}
+            
+```
 
 ![](/img/image019.jpg)
