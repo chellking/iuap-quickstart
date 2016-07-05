@@ -8,7 +8,7 @@
    * [示例工程说明](part1/shiligongchengmd.md)
    * [启动调试](part1/qi_dong_diao_shi.md)
 * [基础工程创建](part2/README.md)
-   * [创建IUAP工程](part2/chuang_jian_iuap_gong_cheng.md)
+   * [创建iUAP工程](part2/chuang_jian_iuap_gong_cheng.md)
    * [工程结构说明](part2/gong_cheng_jie_gou_shuo_ming.md)
 * [前端开发](part3/README.md)
    * [前端配置简介](part3/qian_duan_pei_zhi_jian_jie.md)
