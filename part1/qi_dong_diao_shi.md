@@ -5,7 +5,8 @@
 
 ---
 
-运行bin目录下的startPgsql.bat，启动数据库。  
+
+> 运行bin目录下的startPgsql.bat，启动数据库。  
 
 ---
 
