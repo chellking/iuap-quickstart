@@ -10,6 +10,7 @@
         }
     },
     "plugins" : [
+       "-search",
        "splitter",
        "-sharing",
        "toggle-chapters",
