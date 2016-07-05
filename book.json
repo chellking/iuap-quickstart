@@ -10,4 +10,17 @@
             "Home" : "http://iuap.yonyou.com"
         }
     }
+    "plugins": [
+       "splitter",
+       "-sharing",
+       "toggle-chapters",
+       "edit-link",
+       "anchor-navigation"
+     ],
+  "pluginsConfig": {
+    "edit-link": {
+        "base": "https://github.com/chellking/iuap-quickstart/edit/master/",
+        "label": "Edit This Page"
+     }
+    }
  }
