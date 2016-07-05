@@ -8,7 +8,7 @@
         "sidebar" : {
             "Home" : "http://iuap.yonyou.com"
         }
-    }
+    },
     "plugins" : [
        "-sharing",
        "toggle-chapters",
