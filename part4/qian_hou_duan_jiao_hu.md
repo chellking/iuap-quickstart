@@ -1,4 +1,3 @@
-﻿
 # 前后端交互
 
 示例默认采用Spring MVC的方式以Rest格式的http服务来向前端提供基础的数据访问能力，Spring MVC的配置，请参考`web.xml`和`spring-mvc.xml`。  
