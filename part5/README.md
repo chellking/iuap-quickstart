@@ -19,7 +19,7 @@
 第二步：引入分布式缓存所需要的Spring配置文件，加入到`src/main/resources`下。  
 
 
-![](image/image030.jpg)
+![](../img/image030.jpg)
 
 
 第三步：在属性文件`application.properties`中，配置缓存需要的连接信息。  
