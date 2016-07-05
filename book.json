@@ -13,14 +13,7 @@
     "plugins": [
        "splitter",
        "-sharing",
-       "toggle-chapters",
-       "edit-link",
-       "anchor-navigation"
+       "toggle-chapters"
      ],
-  "pluginsConfig": {
-    "edit-link": {
-        "base": "https://github.com/chellking/iuap-quickstart/edit/master/",
-        "label": "Edit This Page"
-     }
-    }
+  
  }
