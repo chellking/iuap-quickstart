@@ -1,4 +1,3 @@
-﻿
 # 清理与打包
 
 在开发过程中，采用Maven的clean、compile、package等命令进行工程的清理和编译、打包。  
